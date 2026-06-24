@@ -1,6 +1,6 @@
 # Awesome Codex Guide
 
-Chinese-first, English-switchable, agent-readable OpenAI Codex practice guide.
+OpenAI Codex guide for Chinese developers, with resource metadata for agents.
 
 ## Use This For
 
@@ -8,7 +8,7 @@ Chinese-first, English-switchable, agent-readable OpenAI Codex practice guide.
 - Writing `AGENTS.md`.
 - Understanding Codex permissions, sandboxing, MCP, skills, plugins, and subagents.
 - Troubleshooting authentication, sandbox, setup, and configuration errors.
-- Finding curated official and community Codex resources with trust labels and risk scores.
+- Finding official and community Codex resources with trust labels and risk scores.
 
 ## Entry Points
 

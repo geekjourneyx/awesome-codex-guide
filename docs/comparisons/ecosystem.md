@@ -7,6 +7,6 @@
 | `awesome-codex-subagents` | Subagent catalog | Role-based delegation ideas |
 | `awesome-codex-plugins` | Plugin ecosystem | External integrations |
 | `awesome-codex-cli` | CLI resource index | Broad CLI tools and references |
-| `awesome-codex-guide` | Practice guide | Task-first learning, safety, workflows, and agent-readable metadata |
+| `awesome-codex-guide` | 使用手册 | 中文路线、排障、工作流和资源索引 |
 
-The goal is not to replace ecosystem projects. The goal is to route users and agents to the right resource at the right moment.
+Use the official repo for behavior, ecosystem repos for examples, and this repo for Chinese reading paths and troubleshooting.

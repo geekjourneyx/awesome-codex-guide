@@ -1,13 +1,13 @@
 # Awesome Codex Guide Full Agent Context
 
-This repository is a Codex practice guide, not a link farm.
+This repository is a Codex guide for Chinese developers.
 
 ## Core Product Shape
 
-- Chinese-first.
-- English-switchable.
-- Task-first information architecture.
-- Agent-readable metadata.
+- Chinese is the main language.
+- English pages are kept small.
+- Pages are organized by task.
+- Metadata is kept for agents.
 - Official sources as authority.
 - Community links as evidence and examples.
 - Security and freshness as first-class fields.
@@ -17,7 +17,7 @@ This repository is a Codex practice guide, not a link farm.
 A page should exist only if it does at least one of these:
 
 1. Answers a real user task.
-2. Repairs a known failure mode.
+2. Fixes a known failure mode.
 3. Helps an AI agent execute more correctly.
 4. Reduces security, permission, version, or authentication risk.
 
@@ -62,4 +62,4 @@ Curated resources live in `metadata/resources.json`. Important fields:
 - `freestylefly-codexguide` -> `https://github.com/freestylefly/CodexGuide`
 - `codexguide-ai-site` -> `https://codexguide.ai/`
 
-Treat these as community resources. For feature availability, pricing, authentication, permissions, and security behavior, prefer OpenAI official sources.
+These are community resources. For feature availability, pricing, authentication, permissions, and security behavior, prefer OpenAI official sources.

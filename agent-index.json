@@ -2,7 +2,7 @@
   "name": "Awesome Codex Guide",
   "default_language": "zh-CN",
   "supported_languages": ["zh-CN", "en"],
-  "purpose": "Route users and AI agents to reliable OpenAI Codex learning paths, workflows, troubleshooting pages, and curated ecosystem resources.",
+  "purpose": "Route users and agents to OpenAI Codex learning pages, workflows, troubleshooting notes, and resource metadata.",
   "entrypoints": [
     {
       "intent": "learn_codex",

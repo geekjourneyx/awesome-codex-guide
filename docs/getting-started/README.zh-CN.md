@@ -1,10 +1,10 @@
-# Codex 入门路线
+# Codex 怎么开始
 
 ## 适用人群
 
-你已经听说 OpenAI Codex，但不确定应该从 CLI、IDE、Web、AGENTS.md、MCP、Skills 还是 Subagents 开始。
+你知道 Codex，但不知道先看 CLI、IDE、Web、AGENTS.md、MCP 还是 Skills。
 
-## 最短路线
+## 顺序
 
 1. 先读官方入口：[Codex Quickstart](https://developers.openai.com/codex/quickstart)。
 2. 在一个可回滚的 Git 仓库里启动 Codex CLI。
@@ -14,13 +14,13 @@
 
 ## 学习顺序
 
-| 阶段 | 目标 | 本仓库入口 |
+| 阶段 | 做什么 | 入口 |
 | --- | --- | --- |
 | 1 | 跑通 CLI | [Codex CLI 实战](../codex-cli/README.zh-CN.md) |
-| 2 | 让 Codex 理解项目规则 | [AGENTS.md](../agents-md/README.zh-CN.md) |
+| 2 | 写项目规则 | [AGENTS.md](../agents-md/README.zh-CN.md) |
 | 3 | 控制风险 | [权限与安全](../permissions-security/README.zh-CN.md) |
-| 4 | 解决真实问题 | [实战工作流](../workflows/README.zh-CN.md) |
-| 5 | 扩展能力 | [生态扩展](../resources/ecosystem.zh-CN.md) |
+| 4 | 处理一个小任务 | [工作流](../workflows/README.zh-CN.md) |
+| 5 | 找扩展资源 | [扩展资源](../resources/ecosystem.zh-CN.md) |
 | 6 | 排障 | [常见错误](../troubleshooting/common-errors.zh-CN.md) |
 
 ## 判断是否学会
@@ -33,4 +33,4 @@
 - 要求它运行测试并解释失败原因。
 - 在不泄露密钥的前提下排查认证和配置问题。
 
-最后验证：在一个测试仓库里让 Codex 完成“读代码、补测试、修失败、解释 diff”的闭环。
+最后验证：找一个测试仓库，让 Codex 读代码、补测试、修失败、解释 diff。

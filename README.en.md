@@ -1,8 +1,8 @@
 # Awesome Codex Guide
 
-**A Chinese-first, English-switchable, agent-readable practice guide for OpenAI Codex.**
+**A practical OpenAI Codex guide for Chinese developers, with a small English entrypoint.**
 
-This project is not a Codex link farm. It turns official documentation, community resources, and real engineering workflows into a practical map for developers and AI agents.
+It collects official docs, Chinese guides, community projects, and a few workflows that are useful in real projects.
 
 [中文](./README.md) | [Agent Index](./agent-index.json) | [llms.txt](./llms.txt) | [Contributing](./CONTRIBUTING.md)
 
@@ -17,11 +17,11 @@ This project is not a Codex link farm. It turns official documentation, communit
 
 ## Principles
 
-- Task-first pages, not a broad catalog.
-- Official sources are the authority; community links are evidence and examples.
-- Security notes are mandatory for authentication, local file access, MCP, plugins, and command execution.
-- Agent-readable surfaces are product features: `llms.txt`, `agent-index.json`, and structured resource metadata.
-- Every curated resource carries a trust label, risk score, and verification date.
+- Start from official sources.
+- Explain what each resource is good for.
+- Mark token, MCP, plugin, local file, and command-execution risks.
+- Keep `llms.txt`, `agent-index.json`, and resource metadata for agents.
+- Keep trust labels, risk scores, and verification dates.
 
 ## Core Resources
 
