@@ -79,10 +79,6 @@ llms.txt              AI crawler and agent entrypoint
 llms-full.txt         Expanded context map
 ```
 
-## GitHub Topics 建议
-
-`openai`, `codex`, `openai-codex`, `codex-cli`, `ai-agent`, `agentic-coding`, `coding-agent`, `developer-tools`, `awesome-list`, `tutorial`, `guide`, `codex-skills`, `codex-plugins`, `subagents`, `mcp`, `chinese`, `bilingual`
-
 ## 许可证
 
 [MIT](./LICENSE)
