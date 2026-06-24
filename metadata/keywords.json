@@ -1,0 +1,31 @@
+{
+  "primary": [
+    "OpenAI Codex",
+    "Codex CLI",
+    "Codex 教程",
+    "OpenAI Codex 中文",
+    "Codex AGENTS.md",
+    "Codex MCP",
+    "Codex Skills",
+    "Codex Subagents"
+  ],
+  "long_tail": [
+    "Codex CLI 教程",
+    "Codex 安装配置",
+    "Codex 401 排查",
+    "Codex 权限设置",
+    "Codex 沙箱错误",
+    "Codex skills 教程",
+    "Codex plugins 教程",
+    "Codex subagents 教程",
+    "OpenAI Codex tutorial",
+    "Codex agent workflow"
+  ],
+  "positioning": [
+    "Chinese-first",
+    "English-switchable",
+    "agent-readable",
+    "task-first",
+    "practice guide"
+  ]
+}

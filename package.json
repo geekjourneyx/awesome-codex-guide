@@ -1,0 +1,24 @@
+{
+  "name": "awesome-codex-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Chinese-first, English-switchable OpenAI Codex practice guide with agent-friendly metadata.",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/validate-metadata.test.mjs",
+    "validate": "node scripts/validate-metadata.mjs"
+  },
+  "keywords": [
+    "openai",
+    "codex",
+    "codex-cli",
+    "ai-agent",
+    "agentic-coding",
+    "awesome-list",
+    "tutorial",
+    "guide",
+    "chinese",
+    "bilingual"
+  ],
+  "license": "MIT"
+}

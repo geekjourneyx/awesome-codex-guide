@@ -1,0 +1,57 @@
+# Awesome Codex Guide Full Agent Context
+
+This repository is a Codex practice guide, not a link farm.
+
+## Core Product Shape
+
+- Chinese-first.
+- English-switchable.
+- Task-first information architecture.
+- Agent-readable metadata.
+- Official sources as authority.
+- Community links as evidence and examples.
+- Security and freshness as first-class fields.
+
+## Page Admission Rule
+
+A page should exist only if it does at least one of these:
+
+1. Answers a real user task.
+2. Repairs a known failure mode.
+3. Helps an AI agent execute more correctly.
+4. Reduces security, permission, version, or authentication risk.
+
+## Metadata Contract
+
+Curated resources live in `metadata/resources.json`. Important fields:
+
+- `id`
+- `title`
+- `url`
+- `category`
+- `language`
+- `summary`
+- `use_cases`
+- `authority`
+- `trust_label`
+- `risk_score`
+- `last_verified`
+- `agent_notes.best_for`
+- `agent_notes.not_for`
+
+## Trust Labels
+
+- Official: official or first-party source.
+- Community: community-maintained and reviewed.
+- Experimental: new or unstable resource.
+- Security Review Needed: token, permission, proxy, script, MCP, plugin, or local access risk.
+- Archived / Outdated: historical only.
+
+## Recommended Routing
+
+- `install_codex_cli` -> `docs/codex-cli/README.zh-CN.md`
+- `write_agents_md` -> `docs/agents-md/README.zh-CN.md`
+- `review_permissions` -> `docs/permissions-security/README.zh-CN.md`
+- `debug_auth_error` -> `docs/troubleshooting/common-errors.zh-CN.md`
+- `discover_ecosystem` -> `docs/resources/ecosystem.zh-CN.md`
+- `find_source_of_truth` -> `docs/resources/official.md`

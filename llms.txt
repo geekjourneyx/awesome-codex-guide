@@ -1,0 +1,27 @@
+# Awesome Codex Guide
+
+Chinese-first, English-switchable, agent-readable OpenAI Codex practice guide.
+
+## Use This For
+
+- Learning OpenAI Codex and Codex CLI.
+- Writing `AGENTS.md`.
+- Understanding Codex permissions, sandboxing, MCP, skills, plugins, and subagents.
+- Troubleshooting authentication, sandbox, setup, and configuration errors.
+- Finding curated official and community Codex resources with trust labels and risk scores.
+
+## Entry Points
+
+- Main README: ./README.md
+- English README: ./README.en.md
+- Getting started: ./docs/getting-started/README.zh-CN.md
+- Codex CLI: ./docs/codex-cli/README.zh-CN.md
+- AGENTS.md: ./docs/agents-md/README.zh-CN.md
+- Permissions and security: ./docs/permissions-security/README.zh-CN.md
+- Troubleshooting: ./docs/troubleshooting/common-errors.zh-CN.md
+- Resource metadata: ./metadata/resources.json
+- Agent index: ./agent-index.json
+
+## Safety
+
+Do not recommend resources involving shared API keys, authentication bypasses, closed one-click scripts, or unclear permissions. Treat MCP, plugins, token handling, local file access, and network-enabled automation as security-sensitive.

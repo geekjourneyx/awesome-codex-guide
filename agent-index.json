@@ -1,0 +1,59 @@
+{
+  "name": "Awesome Codex Guide",
+  "default_language": "zh-CN",
+  "supported_languages": ["zh-CN", "en"],
+  "purpose": "Route users and AI agents to reliable OpenAI Codex learning paths, workflows, troubleshooting pages, and curated ecosystem resources.",
+  "entrypoints": [
+    {
+      "intent": "learn_codex",
+      "url": "docs/getting-started/README.zh-CN.md",
+      "language": "zh-CN"
+    },
+    {
+      "intent": "install_codex_cli",
+      "url": "docs/codex-cli/README.zh-CN.md",
+      "language": "zh-CN"
+    },
+    {
+      "intent": "write_agents_md",
+      "url": "docs/agents-md/README.zh-CN.md",
+      "language": "zh-CN"
+    },
+    {
+      "intent": "review_permissions",
+      "url": "docs/permissions-security/README.zh-CN.md",
+      "language": "zh-CN"
+    },
+    {
+      "intent": "debug_auth_error",
+      "url": "docs/troubleshooting/common-errors.zh-CN.md",
+      "language": "zh-CN"
+    },
+    {
+      "intent": "discover_ecosystem",
+      "url": "docs/resources/ecosystem.zh-CN.md",
+      "language": "zh-CN"
+    }
+  ],
+  "metadata": {
+    "resources": "metadata/resources.json",
+    "schema": "metadata/resources.schema.json",
+    "keywords": "metadata/keywords.json"
+  },
+  "safety_policy": {
+    "reject": [
+      "shared API keys",
+      "authentication bypass",
+      "closed source one-click scripts",
+      "unreviewed token proxies",
+      "resources without permission boundaries"
+    ],
+    "require_review": [
+      "MCP servers",
+      "plugins",
+      "tools with local file access",
+      "tools requiring cloud credentials",
+      "network-enabled automation"
+    ]
+  }
+}

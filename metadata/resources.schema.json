@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome Codex Guide Resources",
+  "type": "object",
+  "required": ["generated_at", "resources"],
+  "properties": {
+    "generated_at": { "type": "string" },
+    "resources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "url",
+          "type",
+          "category",
+          "language",
+          "summary",
+          "keywords",
+          "use_cases",
+          "difficulty",
+          "audience",
+          "source_type",
+          "authority",
+          "trust_label",
+          "risk_score",
+          "status",
+          "last_verified",
+          "agent_notes"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "string" },
+          "url": { "type": "string" },
+          "type": { "type": "string" },
+          "category": { "type": "string" },
+          "language": { "enum": ["zh-CN", "en"] },
+          "risk_score": { "type": "integer", "minimum": 0, "maximum": 10 },
+          "use_cases": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "agent_notes": {
+            "type": "object",
+            "required": ["best_for", "not_for"]
+          }
+        }
+      }
+    }
+  }
+}
