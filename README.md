@@ -61,6 +61,9 @@
 - [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - Codex Subagents 集合。
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - Codex plugins 生态观察。
 - [RoggeOhta/awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) - Codex CLI 工具索引。
+- [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) - 中文 Codex 橙皮书，从安装到实战案例的全链路指南。
+- [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) - 高热中文 Codex 实践指南开源仓库。
+- [CodexGuide.ai](https://codexguide.ai/) - 中文 Codex 教程站，覆盖 App、CLI、AGENTS.md、权限、排障和实战案例。
 
 更多结构化条目见 [metadata/resources.json](./metadata/resources.json)。
 

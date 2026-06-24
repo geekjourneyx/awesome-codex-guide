@@ -55,3 +55,11 @@ Curated resources live in `metadata/resources.json`. Important fields:
 - `debug_auth_error` -> `docs/troubleshooting/common-errors.zh-CN.md`
 - `discover_ecosystem` -> `docs/resources/ecosystem.zh-CN.md`
 - `find_source_of_truth` -> `docs/resources/official.md`
+
+## High-Heat Chinese Community Resources
+
+- `bozhoudev-codex-orange-book` -> `https://github.com/bozhouDev/codex-orange-book`
+- `freestylefly-codexguide` -> `https://github.com/freestylefly/CodexGuide`
+- `codexguide-ai-site` -> `https://codexguide.ai/`
+
+Treat these as community resources. For feature availability, pricing, authentication, permissions, and security behavior, prefer OpenAI official sources.

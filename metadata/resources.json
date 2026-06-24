@@ -378,6 +378,87 @@
         "best_for": "Assessing whether a Codex workflow, MCP server, plugin, or tutorial is safe enough to follow.",
         "not_for": "Granting broad permissions without inspecting data flow and source code."
       }
+    },
+    {
+      "id": "bozhoudev-codex-orange-book",
+      "title": "Codex 橙皮书",
+      "title_en": "Codex Orange Book",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "canonical": "https://github.com/bozhouDev/codex-orange-book",
+      "type": "repository",
+      "category": "chinese-guide",
+      "language": "zh-CN",
+      "summary": "中文 Codex 全链路使用指南，从安装到实战案例，包含可下载 PDF。GitHub 热度高，适合作为中文学习补充资源。",
+      "keywords": ["Codex 橙皮书", "Codex 中文教程", "Codex 实战", "Codex PDF"],
+      "use_cases": ["learn_codex", "read_chinese_guide", "study_codex_examples"],
+      "difficulty": "beginner",
+      "audience": ["developer", "creator", "chinese_user"],
+      "source_type": "community",
+      "authority": "community-curated",
+      "trust_label": "Community",
+      "risk_score": 3,
+      "status": "active",
+      "last_verified": "2026-06-24",
+      "references": ["https://developers.openai.com/codex/quickstart"],
+      "related": ["local-codex-cli-guide-zh", "local-troubleshooting-zh", "codexguide-ai-site"],
+      "agent_notes": {
+        "best_for": "Chinese users who want a broad Codex learning guide with practical examples and a PDF-style reading path.",
+        "not_for": "Treating community guidance as more authoritative than current OpenAI official documentation."
+      }
+    },
+    {
+      "id": "freestylefly-codexguide",
+      "title": "freestylefly/CodexGuide",
+      "title_en": "freestylefly/CodexGuide",
+      "url": "https://github.com/freestylefly/CodexGuide",
+      "canonical": "https://github.com/freestylefly/CodexGuide",
+      "type": "repository",
+      "category": "chinese-guide",
+      "language": "zh-CN",
+      "summary": "CodexGuide 开源仓库，面向初学者、创作者、开发者与团队，配套教程站 codexguide.ai。",
+      "keywords": ["CodexGuide", "Codex 中文教程", "Codex 实践指南", "CodexGuide.ai"],
+      "use_cases": ["learn_codex", "read_chinese_guide", "study_codex_examples", "discover_codex_workflows"],
+      "difficulty": "beginner",
+      "audience": ["developer", "creator", "team_lead", "chinese_user"],
+      "source_type": "community",
+      "authority": "community-curated",
+      "trust_label": "Community",
+      "risk_score": 3,
+      "status": "active",
+      "last_verified": "2026-06-24",
+      "references": ["https://codexguide.ai/", "https://developers.openai.com/codex/quickstart"],
+      "related": ["codexguide-ai-site", "local-codex-cli-guide-zh", "local-security-guide-zh"],
+      "agent_notes": {
+        "best_for": "Chinese users looking for a maintained, website-backed Codex tutorial with practical entry paths.",
+        "not_for": "Blindly following third-party API, sponsor, or community instructions without checking official sources and security notes."
+      }
+    },
+    {
+      "id": "codexguide-ai-site",
+      "title": "CodexGuide.ai",
+      "title_en": "CodexGuide.ai",
+      "url": "https://codexguide.ai/",
+      "canonical": "https://codexguide.ai/",
+      "type": "website",
+      "category": "chinese-guide",
+      "language": "zh-CN",
+      "summary": "面向中文用户的 OpenAI Codex 教程站，覆盖桌面 App、CLI、IDE、Cloud、配置、Skills、权限、安全和 16 个实战案例。",
+      "keywords": ["CodexGuide.ai", "OpenAI Codex 教程", "Codex CLI 教程", "AGENTS.md", "Codex 实战案例"],
+      "use_cases": ["learn_codex", "install_codex_cli", "write_agents_md", "review_permissions", "study_codex_examples"],
+      "difficulty": "beginner",
+      "audience": ["developer", "creator", "team_lead", "chinese_user"],
+      "source_type": "community",
+      "authority": "community-curated",
+      "trust_label": "Community",
+      "risk_score": 4,
+      "status": "active",
+      "last_verified": "2026-06-24",
+      "references": ["https://github.com/freestylefly/CodexGuide", "https://developers.openai.com/codex/quickstart"],
+      "related": ["freestylefly-codexguide", "local-codex-cli-guide-zh", "local-security-guide-zh"],
+      "agent_notes": {
+        "best_for": "Chinese users who need a website-style Codex learning route with App, CLI, Cloud, AGENTS.md, permissions, troubleshooting, and real cases.",
+        "not_for": "Replacing official OpenAI documentation when checking feature availability, pricing, authentication, or security behavior."
+      }
     }
   ]
 }
