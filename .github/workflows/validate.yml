@@ -1,0 +1,25 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Test metadata contract
+        run: npm test
+
+      - name: Validate resource metadata
+        run: npm run validate
