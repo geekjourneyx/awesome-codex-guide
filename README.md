@@ -6,6 +6,8 @@
 
 [English](./README.en.md) | [中文](./README.zh-CN.md) | [Agent Index](./agent-index.json) | [llms.txt](./llms.txt) | [Contributing](./CONTRIBUTING.md)
 
+<img src="assets/banner.webp" alt="Awesome Codex Guide banner" width="100%">
+
 ## 先看这些
 
 | 你的目标 | 中文入口 | English |

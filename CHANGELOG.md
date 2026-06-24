@@ -9,3 +9,4 @@
 - Added GitHub repository description and topics.
 - Added high-heat Chinese Codex resources: `bozhouDev/codex-orange-book`, `freestylefly/CodexGuide`, and `codexguide.ai`.
 - Reduced marketing copy and AI-style framing across README, docs, llms files, and resource summaries.
+- Added a compressed WebP README banner generated with the image generation workflow.
