@@ -37,6 +37,4 @@
 - 明确测试命令和验证门槛。
 - 把安全边界写在前面。
 
-Official source: [AGENTS.md guide](https://developers.openai.com/codex/guides/agents-md)
-
-Last verified: 2026-06-24
+继续读：[OpenAI AGENTS.md guide](https://developers.openai.com/codex/guides/agents-md)

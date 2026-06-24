@@ -1,6 +1,6 @@
 # Awesome Codex Guide 中文版
 
-这是中文入口。首页内容已经是中文，这里只放阅读顺序。
+按这个顺序读，会少走很多弯路。
 
 推荐阅读顺序：
 
@@ -11,4 +11,4 @@
 5. [工作流](./docs/workflows/README.zh-CN.md)
 6. [排障手册](./docs/troubleshooting/common-errors.zh-CN.md)
 
-结构化资源见 [metadata/resources.json](./metadata/resources.json)。
+社区教程可以参考；登录、订阅、API key、权限和安全策略先看官方资料。

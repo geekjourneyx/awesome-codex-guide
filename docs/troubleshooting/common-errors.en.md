@@ -14,5 +14,3 @@ Common causes:
 - System-level file access.
 
 Approve only commands you understand and keep the permission scope minimal.
-
-Last verified: 2026-06-24

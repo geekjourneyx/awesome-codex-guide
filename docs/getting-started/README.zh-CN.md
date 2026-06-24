@@ -16,7 +16,7 @@
 
 | 阶段 | 做什么 | 入口 |
 | --- | --- | --- |
-| 1 | 跑通 CLI | [Codex CLI 实战](../codex-cli/README.zh-CN.md) |
+| 1 | 跑通 CLI | [Codex CLI 使用](../codex-cli/README.zh-CN.md) |
 | 2 | 写项目规则 | [AGENTS.md](../agents-md/README.zh-CN.md) |
 | 3 | 控制风险 | [权限与安全](../permissions-security/README.zh-CN.md) |
 | 4 | 处理一个小任务 | [工作流](../workflows/README.zh-CN.md) |

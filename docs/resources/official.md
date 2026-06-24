@@ -7,5 +7,3 @@
 - [Codex Subagents](https://developers.openai.com/codex/subagents)
 - [Codex best practices](https://developers.openai.com/codex/learn/best-practices)
 - [openai/codex](https://github.com/openai/codex)
-
-Last verified: 2026-06-24

@@ -21,9 +21,9 @@
 4. 再按任务引入 MCP、Skills、Plugins、Subagents。
 5. 需要中文长教程时，再看 Codex 橙皮书和 CodexGuide。功能、价格、认证、安全策略还是回到官方资料确认。
 
-## 收录提醒
+## 先看一眼权限
 
-这里列出的社区资源不等于背书。需要 token、浏览器、数据库、云账号、本地文件写入的工具，先看源码、权限范围和数据流。
+看到需要 token、浏览器、数据库、云账号、本地文件写入的工具，先看源码、权限范围和数据流。
 
 ## 中文资源
 
@@ -31,6 +31,4 @@
 - [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) - CodexGuide 开源仓库，可以看教程站背后的内容结构。
 - [CodexGuide.ai](https://codexguide.ai/) - 教程网站，包含 Codex 桌面 App、CLI、IDE、Cloud、AGENTS.md、沙盒审批、排障和实战案例。
 
-这些都是社区资源。可用性、订阅、认证、权限和安全策略，以 OpenAI 官方资料为准。
-
-Last verified: 2026-06-24
+可用性、订阅、认证、权限和安全策略，先回到 OpenAI 官方资料确认。
