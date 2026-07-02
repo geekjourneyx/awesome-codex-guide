@@ -272,6 +272,33 @@
       }
     },
     {
+      "id": "codex-profiles",
+      "title": "Ducksss/codex-profiles",
+      "title_en": "Ducksss/codex-profiles",
+      "url": "https://github.com/Ducksss/codex-profiles",
+      "canonical": "https://github.com/Ducksss/codex-profiles",
+      "type": "repository",
+      "category": "codex-cli",
+      "language": "en",
+      "summary": "社区维护的 Bash CLI，用独立 CODEX_HOME 启动 Codex CLI/Desktop，适合多账号、工作/客户环境隔离；不会读取、复制或迁移 auth.json。",
+      "keywords": ["Codex CLI", "CODEX_HOME", "profile isolation", "multi-account"],
+      "use_cases": ["switch_codex_accounts", "isolate_codex_state", "run_desktop_profiles"],
+      "difficulty": "beginner",
+      "audience": ["developer", "cli_user"],
+      "source_type": "community",
+      "authority": "community-maintained",
+      "trust_label": "Community",
+      "risk_score": 3,
+      "status": "active",
+      "last_verified": "2026-07-03",
+      "references": ["https://ducksss.github.io/codex-profiles/", "https://github.com/openai/codex"],
+      "related": ["codex-cli-docs", "openai-codex-github"],
+      "agent_notes": {
+        "best_for": "Codex users who need separate local state for personal, work, school, or client profiles.",
+        "not_for": "Strict OS-level isolation; SSH keys, GitHub CLI auth, browser cookies, and other OS credentials are still shared."
+      }
+    },
+    {
       "id": "local-codex-cli-guide-zh",
       "title": "Codex CLI 实战",
       "title_en": "Codex CLI Guide",
