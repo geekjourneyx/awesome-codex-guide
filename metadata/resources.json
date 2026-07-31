@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24",
+  "generated_at": "2026-07-31",
   "resources": [
     {
       "id": "openai-codex-docs",
@@ -269,6 +269,33 @@
       "agent_notes": {
         "best_for": "Finding broader CLI ecosystem links.",
         "not_for": "Treating all listed resources as endorsed."
+      }
+    },
+    {
+      "id": "phelan164-codex-howto",
+      "title": "Phelan164/codex-howto",
+      "title_en": "Codex How To",
+      "url": "https://github.com/Phelan164/codex-howto",
+      "canonical": "https://github.com/Phelan164/codex-howto",
+      "type": "repository",
+      "category": "engineering-workflows",
+      "language": "en",
+      "summary": "面向软件工程的 Codex 学习仓库，包含渐进式模块、可安装 skills、工程闭环、测试审查和可复现测量。",
+      "keywords": ["Codex engineering workflow", "Codex skills", "engineering loop", "Codex tutorial"],
+      "use_cases": ["learn_codex", "run_engineering_workflows", "measure_agent_efficiency", "review_code_changes"],
+      "difficulty": "intermediate",
+      "audience": ["developer", "maintainer", "agent_builder", "team_lead"],
+      "source_type": "community",
+      "authority": "community-curated",
+      "trust_label": "Community",
+      "risk_score": 2,
+      "status": "active",
+      "last_verified": "2026-07-31",
+      "references": ["https://developers.openai.com/codex/", "https://github.com/openai/codex"],
+      "related": ["roggeohta-awesome-codex-cli", "composio-awesome-codex-skills", "local-codex-cli-guide-zh"],
+      "agent_notes": {
+        "best_for": "Developers who want a progressive, runnable Codex engineering workflow with reusable skills and evidence-based validation.",
+        "not_for": "Replacing official OpenAI documentation for current product behavior, authentication, pricing, or security guarantees."
       }
     },
     {

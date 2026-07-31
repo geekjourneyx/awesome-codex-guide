@@ -28,6 +28,7 @@
 - [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - Codex Subagents 集合。
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - Codex plugins 资源。
 - [RoggeOhta/awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) - Codex CLI 工具索引。
+- [Phelan164/codex-howto](https://github.com/Phelan164/codex-howto) - 面向软件工程的渐进式 Codex 教程，包含可安装 skills、工程闭环和测量方法。
 - [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) - 中文 Codex 橙皮书，有安装、配置和案例。
 - [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) - 中文 CodexGuide 开源仓库。
 - [CodexGuide.ai](https://codexguide.ai/) - 中文 Codex 教程站，有 App、CLI、AGENTS.md、权限、排障和案例。

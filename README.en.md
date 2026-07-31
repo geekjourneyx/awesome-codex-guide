@@ -21,6 +21,7 @@ It collects official docs, Chinese guides, community projects, and a few workflo
 - [openai/codex](https://github.com/openai/codex)
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
 - [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)
+- [Phelan164/codex-howto](https://github.com/Phelan164/codex-howto) — Progressive Codex engineering curriculum with installable skills, a runnable engineering loop, and measurement guidance.
 
 Use community resources as references. For login, pricing, API keys, permissions, and security behavior, check official sources first.
 
