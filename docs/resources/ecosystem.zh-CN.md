@@ -9,7 +9,7 @@
 | Plugins | 外部系统能力 | [awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) |
 | MCP | 工具和上下文协议 | [Codex MCP docs](https://developers.openai.com/codex/mcp) |
 | CLI tools | 终端工作流增强 | [awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) |
-| 工程工作流 | 从任务到测试、审查和证据交付 | [Codex How To](https://github.com/Phelan164/codex-howto) |
+| 工程工作流 | 从任务到测试、审查、知识维护和证据交付 | [Codex How To](https://github.com/Phelan164/codex-howto) |
 | 中文指南 | 中文学习材料 | [Codex 橙皮书](https://github.com/bozhouDev/codex-orange-book), [CodexGuide](https://github.com/freestylefly/CodexGuide), [CodexGuide.ai](https://codexguide.ai/) |
 
 ## 使用顺序
