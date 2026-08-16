@@ -459,6 +459,33 @@
         "best_for": "Chinese users who need a website-style Codex learning route with App, CLI, Cloud, AGENTS.md, permissions, troubleshooting, and cases.",
         "not_for": "Replacing official OpenAI documentation when checking feature availability, pricing, authentication, or security behavior."
       }
+    },
+    {
+      "id": "vostride-agent-qa",
+      "title": "Agent QA",
+      "title_en": "Agent QA",
+      "url": "https://github.com/vostride/agent-qa",
+      "canonical": "https://github.com/vostride/agent-qa",
+      "type": "repository",
+      "category": "mcp",
+      "language": "en",
+      "summary": "面向 Codex 等 coding agents 的 QA 工具，提供自然语言 Web/移动端回归测试、持久测试记忆、失败证据和 MCP 接口。",
+      "keywords": ["Agent QA", "Codex QA", "MCP testing", "web testing", "mobile testing"],
+      "use_cases": ["run_application_qa", "author_web_mobile_tests", "triage_test_failures"],
+      "difficulty": "advanced",
+      "audience": ["developer", "qa_engineer", "agent_builder"],
+      "source_type": "community",
+      "authority": "community-curated",
+      "trust_label": "Community",
+      "risk_score": 6,
+      "status": "active",
+      "last_verified": "2026-08-16",
+      "references": ["https://vostride.com/docs/agent-qa", "https://github.com/vostride/agent-qa/tree/main/skills"],
+      "related": ["codex-mcp-docs", "composio-awesome-codex-skills", "local-security-guide-zh"],
+      "agent_notes": {
+        "best_for": "Running repeatable application-level web and mobile regression checks from Codex through skills, CLI, or MCP.",
+        "not_for": "Treating application pass/fail evidence as model-quality or agent-trajectory evaluation, or testing production with real user accounts."
+      }
     }
   ]
 }
