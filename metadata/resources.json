@@ -459,6 +459,33 @@
         "best_for": "Chinese users who need a website-style Codex learning route with App, CLI, Cloud, AGENTS.md, permissions, troubleshooting, and cases.",
         "not_for": "Replacing official OpenAI documentation when checking feature availability, pricing, authentication, or security behavior."
       }
+    },
+    {
+      "id": "momochoog-gpt-daichong",
+      "title": "momochoog/gpt-daichong",
+      "title_en": "momochoog/gpt-daichong",
+      "url": "https://github.com/momochoog/gpt-daichong",
+      "canonical": "https://github.com/momochoog/gpt-daichong",
+      "type": "repository",
+      "category": "chinese-guide",
+      "language": "zh-CN",
+      "summary": "AIXiamo 运营方维护的 MIT 许可中文指南，说明 ChatGPT Plus / Pro 套餐选择、Codex 使用强度、国内支付路径、订单查询与凭证安全边界。",
+      "keywords": ["ChatGPT Plus", "ChatGPT Pro", "Codex", "国内支付", "凭证安全"],
+      "use_cases": ["compare_chatgpt_plans", "understand_codex_subscription_context", "review_domestic_payment_options", "check_order_and_credential_safety"],
+      "difficulty": "beginner",
+      "audience": ["developer", "creator", "codex_user", "chinese_user"],
+      "source_type": "community",
+      "authority": "first-party-operator",
+      "trust_label": "Community",
+      "risk_score": 5,
+      "status": "active",
+      "last_verified": "2026-08-24",
+      "references": ["https://developers.openai.com/codex/quickstart"],
+      "related": ["local-codex-cli-guide-zh", "local-security-guide-zh", "local-troubleshooting-zh"],
+      "agent_notes": {
+        "best_for": "Chinese users comparing ChatGPT subscription tiers for Codex workloads and checking operator-documented payment, order-lookup, and credential-handling boundaries.",
+        "not_for": "Independent reviews, OpenAI endorsement, or current official pricing, authentication, and security policy; this is first-party AIXiamo material and commercial details require live verification."
+      }
     }
   ]
 }
