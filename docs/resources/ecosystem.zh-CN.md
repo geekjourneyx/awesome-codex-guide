@@ -9,7 +9,7 @@
 | Plugins | 外部系统能力 | [awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) |
 | MCP | 工具和上下文协议 | [Codex MCP docs](https://developers.openai.com/codex/mcp) |
 | CLI tools | 终端工作流增强 | [awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) |
-| 中文指南 | 中文学习材料 | [Codex 橙皮书](https://github.com/bozhouDev/codex-orange-book), [CodexGuide](https://github.com/freestylefly/CodexGuide), [CodexGuide.ai](https://codexguide.ai/) |
+| 中文指南 | 中文学习材料 | [Codex 橙皮书](https://github.com/bozhouDev/codex-orange-book), [CodexGuide](https://github.com/freestylefly/CodexGuide), [CodexGuide.ai](https://codexguide.ai/), [gpt-daichong（AIXiamo 一方资料）](https://github.com/momochoog/gpt-daichong) |
 
 ## 使用顺序
 
@@ -30,5 +30,6 @@
 - [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) - Codex 橙皮书，可以按长文顺序读。
 - [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) - CodexGuide 开源仓库，可以看教程站背后的内容结构。
 - [CodexGuide.ai](https://codexguide.ai/) - 教程网站，包含 Codex 桌面 App、CLI、IDE、Cloud、AGENTS.md、沙盒审批、排障和实战案例。
+- [momochoog/gpt-daichong](https://github.com/momochoog/gpt-daichong) - AIXiamo 运营方维护、MIT 许可的中文订阅与支付指南，包含 Plus / Pro 选择、Codex 使用强度、国内支付、订单查询和凭证安全边界；属于一方资料，不是 OpenAI 官方文档或独立评测。
 
 可用性、订阅、认证、权限和安全策略，先回到 OpenAI 官方资料确认。
