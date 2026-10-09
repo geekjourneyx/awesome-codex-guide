@@ -11,6 +11,12 @@
 | CLI tools | 终端工作流增强 | [awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) |
 | 中文指南 | 中文学习材料 | [Codex 橙皮书](https://github.com/bozhouDev/codex-orange-book), [CodexGuide](https://github.com/freestylefly/CodexGuide), [CodexGuide.ai](https://codexguide.ai/) |
 
+## Windows 桌面辅助工具
+
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay)：MIT 开源额度悬浮条与本地 Quota Center；v0.4.0 仅分发 Windows 安装包，macOS 仍为源码/CI 验证范围。该条目由项目维护者授权提交，项目与 OpenAI 无隶属或背书关系。
+
+使用前请阅读项目 [隐私说明](https://github.com/cpys/codex-quota-overlay/blob/main/PRIVACY.md) 并审查源码：工具读取本地 App Server 额度/用量接口，探测前台应用身份及窗口边界；项目声明不读取对话内容、截图或浏览器 Cookie，也不消耗重置额度。API-key-only 配置不保证提供订阅额度数据。Windows 包未商业代码签名，应从项目 Releases 下载并核对发布的校验值。本次只核验公开资料与目录元数据，未重新安装测试或进行独立安全审计。
+
 ## 使用顺序
 
 不要一开始就装很多扩展。可以按这个顺序来：
