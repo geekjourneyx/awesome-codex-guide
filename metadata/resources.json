@@ -459,6 +459,34 @@
         "best_for": "Chinese users who need a website-style Codex learning route with App, CLI, Cloud, AGENTS.md, permissions, troubleshooting, and cases.",
         "not_for": "Replacing official OpenAI documentation when checking feature availability, pricing, authentication, or security behavior."
       }
+    },
+    {
+      "id": "codex-quota-overlay",
+      "title": "Codex Quota Overlay",
+      "title_en": "Codex Quota Overlay",
+      "url": "https://github.com/cpys/codex-quota-overlay",
+      "canonical": "https://github.com/cpys/codex-quota-overlay",
+      "type": "tool",
+      "category": "desktop-companion",
+      "language": "zh-CN",
+      "summary": "MIT 开源的 Windows Codex Desktop 辅助工具：在对话旁显示额度与重置倒计时，提供本地 Quota Center。独立社区项目，与 OpenAI 无隶属或背书关系；v0.4.0 仅分发 Windows 安装包。",
+      "keywords": ["Codex Desktop", "Windows", "quota", "额度", "reset countdown"],
+      "use_cases": ["monitor_codex_quota", "view_local_usage_insights"],
+      "difficulty": "intermediate",
+      "audience": ["developer", "windows_user"],
+      "source_type": "community",
+      "authority": "community-maintained",
+      "trust_label": "Security Review Needed",
+      "risk_score": 4,
+      "status": "active",
+      "last_verified": "2026-10-09",
+      "verification_scope": "Public source, README, privacy policy, license and release metadata reviewed; no fresh installation or independent security audit performed. Risk score is a provisional editorial routing estimate, not a security test result.",
+      "references": ["https://github.com/cpys/codex-quota-overlay/blob/main/PRIVACY.md", "https://github.com/cpys/codex-quota-overlay/releases/tag/v0.4.0"],
+      "related": ["openai-codex-github"],
+      "agent_notes": {
+        "best_for": "Windows Codex Desktop users wanting quota/reset visibility. Review the open source and privacy policy, download from official project releases and verify published checksums. Maintainer-authorized contribution; independent community project.",
+        "not_for": "macOS binary installation, Codex web monitoring, API-key-only quota guarantees, quota bypass or automatic reset-credit consumption. Local App Server access and app identity/window-boundary probing require source review; Windows build is not commercially code-signed. No independent security certification is claimed."
+      }
     }
   ]
 }
