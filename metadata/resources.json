@@ -459,6 +459,53 @@
         "best_for": "Chinese users who need a website-style Codex learning route with App, CLI, Cloud, AGENTS.md, permissions, troubleshooting, and cases.",
         "not_for": "Replacing official OpenAI documentation when checking feature availability, pricing, authentication, or security behavior."
       }
+    },
+    {
+      "id": "rea-reverse-engineer-anything",
+      "title": "REA reverse-engineer-anything",
+      "title_en": "REA reverse-engineer-anything",
+      "url": "https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything",
+      "canonical": "https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything",
+      "type": "repository",
+      "category": "skills",
+      "language": "en",
+      "summary": "面向已发布二进制和 JavaScript/Electron 应用的逆向分析 skill，使用本地 REA CLI/MCP 保留证据与未知项；需另装 REA，原生深度分析需自备 Hopper、Ghidra 或 IDA。",
+      "keywords": [
+        "REA",
+        "reverse-engineer-anything",
+        "reverse engineering",
+        "Electron",
+        "MCP"
+      ],
+      "use_cases": [
+        "inspect_shipped_applications",
+        "analyze_javascript_electron",
+        "preserve_analysis_evidence"
+      ],
+      "difficulty": "advanced",
+      "audience": [
+        "developer",
+        "security_researcher"
+      ],
+      "source_type": "community",
+      "authority": "community",
+      "trust_label": "Community",
+      "risk_score": 5,
+      "status": "active",
+      "last_verified": "2026-10-10",
+      "references": [
+        "https://github.com/morluto/rea/blob/main/.agents/skills/reverse-engineer-anything/SKILL.md",
+        "https://github.com/morluto/rea/blob/main/docs/installation.md",
+        "https://github.com/morluto/rea/blob/main/LICENSE"
+      ],
+      "related": [
+        "codex-mcp-docs",
+        "composio-awesome-codex-skills"
+      ],
+      "agent_notes": {
+        "best_for": "Inspecting operator-supplied shipped artifacts with explicit evidence and limitations through local REA tools. Skill discovery and the documented JavaScript CLI fallback have been verified.",
+        "not_for": "Ordinary complete-source repository architecture analysis. Installing the skill does not register MCP or install REA/providers. Setup can write configuration; annotation/runtime operations can modify analysis metadata or launch/instrument processes. Review the selected operation and host/provider prerequisites."
+      }
     }
   ]
 }

@@ -11,6 +11,12 @@
 | CLI tools | 终端工作流增强 | [awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) |
 | 中文指南 | 中文学习材料 | [Codex 橙皮书](https://github.com/bozhouDev/codex-orange-book), [CodexGuide](https://github.com/freestylefly/CodexGuide), [CodexGuide.ai](https://codexguide.ai/) |
 
+## 特定任务的 Skills
+
+- [REA / reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)：分析已发布的二进制与 JavaScript/Electron 应用，保留来源证据、推断和未知项；不用于普通完整源码仓库的架构分析。
+
+安装 skill 只提供指令，不会安装 REA 或注册 MCP。需按 [REA 安装说明](https://github.com/morluto/rea/blob/main/docs/installation.md) 配置工具；原生深度分析还需自备 Hopper、Ghidra 或 IDA。配置写入和运行时操作应按实际任务确认其影响。
+
 ## 使用顺序
 
 不要一开始就装很多扩展。可以按这个顺序来：
